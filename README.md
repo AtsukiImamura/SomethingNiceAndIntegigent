@@ -1,0 +1,2 @@
+# SomethingNiceAndIntegigent
+Python使ってなんかおもろいもの作りたい
